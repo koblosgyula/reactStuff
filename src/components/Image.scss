@@ -1,0 +1,6 @@
+.image{
+  max-width: 280px;
+  ~ .image{
+    margin-top: 10px;
+  }
+}
